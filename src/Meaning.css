@@ -1,0 +1,15 @@
+.Meaning h3 {
+    background-color: #EECC6E;
+    max-width: fit-content;
+    padding: 10px;
+    border-radius: 1px solid #EECC6E;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.Meaning .example {
+    font-size: 14px;
+    opacity: .9;
+    font-style: italic;
+    color:#5391B0;
+}

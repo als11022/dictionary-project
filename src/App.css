@@ -1,3 +1,25 @@
+body {
+    font-family: 'Merriweather', serif;
+    color:#1D3D50;
+}
+
+a {
+    color: #EA7780;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color:#1D3D50;
+}
+
+.container {
+    background: #e8eff7;
+    margin: 30px auto;
+    max-width: 820px;
+    border: 1.8px solid #1D3D50;
+    border-radius: 15px;
+}
 .App-header {
     font-size: 36px;
     font-weight: 700;
@@ -9,3 +31,4 @@
     text-align: center;
     margin: 30px 0;
 }
+
