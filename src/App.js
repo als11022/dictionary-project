@@ -10,7 +10,7 @@ function App() {
         <div>
           <img 
           src="https://img.icons8.com/external-filled-outline-satawat-anukul/64/000000/external-dictionary-education-filled-outline-filled-outline-satawat-anukul-2.png"
-          className="App-logo"
+          className="App-logo" alt="dictionary-logo"
           />
           </div>
       </header>
