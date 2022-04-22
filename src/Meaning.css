@@ -12,4 +12,9 @@
     opacity: .9;
     font-style: italic;
     color:#5391B0;
+    margin-bottom: 5px;
+}
+
+.Meaning .index {
+    margin-bottom:20px;
 }
