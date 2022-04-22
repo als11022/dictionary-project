@@ -15,7 +15,7 @@ function App() {
           </div>
       </header>
       <main>
-        <Dictionary defaultKeyword="sunset"/>
+        <Dictionary defaultKeyword="dog"/>
       </main>
 <footer className="App-footer">
   This page was coded by {" "}
