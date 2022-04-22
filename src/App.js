@@ -36,7 +36,7 @@ function App() {
       </a>
      <br /> 
      <small>
-       <a target="_blank" href="https://icons8.com/icon/2V52pEwZ9acK/dictionary">
+       <a target="_blank" href="https://icons8.com/icon/2V52pEwZ9acK/dictionary" rel="noreferrer">
          Dictionary icon by Icons8
          </a>
          </small>
