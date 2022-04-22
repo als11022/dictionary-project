@@ -7,6 +7,7 @@ export default function Meaning(props){
         <div className= "Meaning">
 <h3>{props.meaning.partOfSpeech}</h3>
 {props.meaning.definitions.map(function(definition, index){
+    if (index<4){
 return (
     <div key={index} className="index">
         <div className="definition">
@@ -19,6 +20,10 @@ return (
     <hr />
     </div>
 );
+    }
+    else {
+        return null;
+    }
 })}
         </div>
     );

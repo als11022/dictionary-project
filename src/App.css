@@ -13,6 +13,10 @@ a:hover {
     color:#1D3D50;
 }
 
+small {
+    font-size: 11px;
+}
+
 .container {
     background: #e8eff7;
     margin: 30px auto;

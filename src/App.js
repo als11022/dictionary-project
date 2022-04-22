@@ -15,7 +15,7 @@ function App() {
           </div>
       </header>
       <main>
-        <Dictionary defaultKeyword="dog"/>
+        <Dictionary defaultKeyword="forest"/>
       </main>
 <footer className="App-footer">
   This page was coded by {" "}
@@ -38,6 +38,10 @@ function App() {
      <small>
        <a target="_blank" href="https://icons8.com/icon/2V52pEwZ9acK/dictionary" rel="noreferrer">
          Dictionary icon by Icons8
+         </a>
+         <br />
+         <a target="_blank" href="https://www.pexels.com/" rel="noreferrer">
+         Photos by Pexels
          </a>
          </small>
 </footer>
